@@ -1,4 +1,4 @@
-def pargain(people, limit):
+def pa(people, limit):
   people.sort()
   left = 0
   right  = len(people) -1
