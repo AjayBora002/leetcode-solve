@@ -12,4 +12,11 @@ def merge(nums1, nums2, m, n):
       nums1[k] = nums1[j]
       j-=1
     k-=1
-    
+
+
+
+
+
+
+
+

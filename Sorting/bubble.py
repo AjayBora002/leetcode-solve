@@ -29,3 +29,10 @@ bubble(nums)
 print(nums)
  # now its TC is O(N)
 
+
+
+
+
+
+
+

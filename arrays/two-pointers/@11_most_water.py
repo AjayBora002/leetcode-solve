@@ -14,14 +14,3 @@ def ccontainer(height):
 
 
 
-def most(nums):
-  n=  len(nums)
-  left, right = 0, n-1
-  most = 0
-  while left<right:
-    most = max(most, (right-left)* min(nums[left], nums[right]))
-    if nums[left]<nums[right]:
-      left+=1
-    else:
-      right-=1
-      
