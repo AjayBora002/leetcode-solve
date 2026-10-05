@@ -8,4 +8,3 @@ def single(nums):
 
 
 
-

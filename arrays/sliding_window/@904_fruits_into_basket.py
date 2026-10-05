@@ -12,3 +12,11 @@ def basket(fruits):
       left+=1
     best = max(best, right-left+1)
   return best
+
+
+
+
+
+
+
+

@@ -16,7 +16,3 @@ def merge(l1, l2):
     return dummy.next  # returns the merged actual list not the dummy
 
 
-
-
-
-

@@ -10,3 +10,10 @@ def sbbb(nums):
         lst.append(nums[i])
     result.append(lst)
   return result
+
+
+
+
+
+
+

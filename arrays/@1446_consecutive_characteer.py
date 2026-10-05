@@ -9,3 +9,10 @@ def consecut(s):
     else:
       c = 1
   return max_c
+
+
+
+
+
+
+

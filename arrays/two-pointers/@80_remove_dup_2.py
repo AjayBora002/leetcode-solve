@@ -7,3 +7,8 @@ def remove(nums):
             slow += 1
     return slow
 
+
+
+
+
+

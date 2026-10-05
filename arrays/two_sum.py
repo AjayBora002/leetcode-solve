@@ -6,3 +6,9 @@ def two(nums, target):
     if diff in f:
       return [f[diff], i]
     f[nums[i]] = i
+
+
+
+
+
+

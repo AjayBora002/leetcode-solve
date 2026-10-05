@@ -11,3 +11,12 @@ def consecutive(nums, k):
       left+=1
     best = max(best, right-left+1)
   return best
+
+
+
+
+
+
+
+
+

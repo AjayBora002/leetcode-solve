@@ -9,3 +9,10 @@ def rotate(nums, k):
   nums.reverse()
   rev(0, k-1)
   rev(k, n-1)
+
+
+
+
+
+
+

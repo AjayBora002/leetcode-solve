@@ -9,6 +9,3 @@ def pair(self, val , target, head):
             temp2 = temp2.next
         temp1 = temp1.next
     return r
-
-
-

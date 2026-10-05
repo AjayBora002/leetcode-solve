@@ -16,3 +16,6 @@ def delete(self, key, head):
         prev= temp
         temp = temp.next
 
+
+
+
