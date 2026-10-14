@@ -24,5 +24,4 @@ def soo(nums):
 
 
         
-          
-        
+  

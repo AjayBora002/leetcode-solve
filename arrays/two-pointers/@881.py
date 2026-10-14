@@ -11,5 +11,3 @@ def pa(people, limit):
   return best
 
 
-
-

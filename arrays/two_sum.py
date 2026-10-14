@@ -10,5 +10,3 @@ def two(nums, target):
 
 
 
-
-
