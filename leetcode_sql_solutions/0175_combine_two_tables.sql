@@ -1,6 +1,6 @@
 /*
 LeetCode 175. Combine Two Tables
-Difficulty: Easy
+
 
 QUESTION:
   Report the firstName, lastName, city and state of each person in Person. If a person has
