@@ -16,3 +16,11 @@ def majority(nums):
 
 
 # using hash map
+def majo(nums):
+  n= len(nums)
+  count = defaultdict(int)
+  threshold = n//2
+  for num in nums:
+    count[num]+=1
+    if count[num]>threshold:
+      return num
