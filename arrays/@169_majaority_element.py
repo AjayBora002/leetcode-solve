@@ -14,6 +14,7 @@ def majority(nums):
 
 
 
+from collections import defaultdict
 
 # using hash map
 def majo(nums):
