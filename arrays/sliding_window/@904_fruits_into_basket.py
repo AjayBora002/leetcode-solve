@@ -19,4 +19,3 @@ def basket(fruits):
 
 
 
-

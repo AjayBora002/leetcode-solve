@@ -10,6 +10,4 @@ def consecut(s):
       c = 1
   return max_c
 
-
-
-
+    

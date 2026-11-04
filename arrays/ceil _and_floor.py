@@ -25,6 +25,3 @@ def fc(nums, target):
 
 
 
-
-
-            

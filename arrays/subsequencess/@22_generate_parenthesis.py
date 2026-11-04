@@ -14,3 +14,9 @@ def generate(n):
       sub.pop()
   parenthesis(0, 0, [])
   return r
+
+
+
+
+
+

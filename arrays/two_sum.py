@@ -8,5 +8,3 @@ def two(nums, target):
     f[nums[i]] = i
 
 
-
-

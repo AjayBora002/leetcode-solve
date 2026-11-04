@@ -8,7 +8,7 @@ def combination(nums, target):
     elif total>target:
       return 
     for i in range(index, len(nums)):
-      if i>index and nums[i] == nums[i-1];
+      if i>index and nums[i] == nums[i-1]:
         continue
       if total+nums[i]>target:
         break

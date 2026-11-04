@@ -25,3 +25,8 @@ def majo(nums):
     count[num]+=1
     if count[num]>threshold:
       return num
+    
+
+
+
+
