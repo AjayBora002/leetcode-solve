@@ -1,4 +1,3 @@
-# subsets
 def sbbb(nums):
   n = len(nums)
   total_subsets = 1<<n

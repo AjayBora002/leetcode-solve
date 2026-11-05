@@ -4,7 +4,7 @@
 #1, BRUTE
 def cyc(self, head):
     temp = head
-    mysets = set() # creating an empty sets to store the npdes
+    mysets = set() 
     while temp is not None:
         if temp in mysets:
             return temp
