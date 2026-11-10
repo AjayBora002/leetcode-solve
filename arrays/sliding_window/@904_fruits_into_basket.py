@@ -15,7 +15,3 @@ def basket(fruits):
 
 
 
-
-
-
-

@@ -13,3 +13,4 @@ def combination(n, k):  # k= no of slements in the subset should be
     subsequence(index+1, total, subset)
   subsequence(0, 0, [])
   return r
+

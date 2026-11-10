@@ -39,6 +39,3 @@ print("Sorted:  ", sorted_numbers)
 
 
 
-
-
-    
