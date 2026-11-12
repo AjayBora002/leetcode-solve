@@ -58,3 +58,8 @@ if __name__ == "__main__":
         for row in sol:
             print(row)
         print()
+
+
+
+        # Time Complexity: O(N!.N)
+        # S.C: O(N^2)
