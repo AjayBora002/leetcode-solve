@@ -14,7 +14,7 @@ class Linked:
             self.head.prev =new
             new.next = self.head
             self.head = new
-    def append(self, val):
+    # def append(self, val):
         new = Node(val)
         if not self.head:
             self.head = new
@@ -97,9 +97,5 @@ class Linked:
 
 
 
-
-
-
-            
 
 
