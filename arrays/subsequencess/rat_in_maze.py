@@ -40,9 +40,9 @@ class Solution:
         vis[i][j] =0
 
       if i-1>=0 and not vis[i-1][j] and a[i-1][j] ==1:
-                vis[i][j] = 1
-                findPath(i-1, j, a, n, ans, move+"U", vis)
-                vis[i][j] = 0
+        vis[i][j] = 1
+        findPath(i-1, j, a, n, ans, move+"U", vis)
+        vis[i][j] = 0
     if maze[0][0] == 1:
       findPath(0, 0, maze, n, ans, "", vis)
     return ans
